@@ -1,0 +1,6 @@
+{
+  "name": "Los Grandes Géneros Literarios — Գրականության ժանրերը",
+  "description": "Ինտերակտիվ ուսումնական ուղեցույց և վարժություններ իսպաներեն գրական ժանրերի համար (Lírica, Narrativa, Teatro) սեղմումով հայերեն թարգմանությամբ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
